@@ -1,0 +1,1 @@
+This repository contains resources related to machine learning, including Python scripts demonstrating clustering, classification, and regression using standard machine learning models, as well as presentation materials covering the theory behind these topics.
